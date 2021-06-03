@@ -1,0 +1,4 @@
+timm
+lightning-flash
+albumentations
+pytorch-lightning-bolts==0.3.2
